@@ -12,7 +12,7 @@
     <artifactId>ReportingSystem</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ReportingSystem</name>
-    <description>Oiland gas company Database Management System</description>
+    <description>Oil and gas company Database Management System</description>
     <properties>
         <java.version>11</java.version>
     </properties>
